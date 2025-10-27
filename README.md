@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 📫 How to reach me **ismael.alvrdz@hotmail.com**
+- 📫 How to reach me **ismael.alvrdz@hotmail.com** 
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1BRYx4vtAlrkFGWAMbUQ_rVgTpcev73Me/view?usp=sharing](https://drive.google.com/file/d/1BRYx4vtAlrkFGWAMbUQ_rVgTpcev73Me/view?usp=sharing)
 
